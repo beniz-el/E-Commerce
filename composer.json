@@ -1,0 +1,17 @@
+{
+    "name": "vendor/name",
+    "authors": [
+        {
+            "name": "El Bekri Zineb",
+            "email": "elbekrizineb97@gmail.com"
+        }
+    ],
+    "require": {
+        "erusev/parsedown": "~1.0",
+        "automattic/woocommerce": "^3.0"
+    },
+
+    "config": {
+    "vendor-dir": "composer_vendor"
+}
+}
